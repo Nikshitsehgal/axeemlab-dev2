@@ -25,9 +25,9 @@ const WhyChooseAxeem: React.FC = () => {
             </h2>
 
             <p className="text-lg text-slate-600 mb-12 leading-relaxed">
-              At Axeem, excellence isn't just a promise — it's a proven track
+              At Axeem, excellence isnt just a promise — its a proven track
               record. Through decades of manufacturing and exporting laboratory
-              instruments, we've helped research institutions and universities
+              instruments, we have helped research institutions and universities
               achieve breakthrough discoveries with reliable, precision
               equipment.
             </p>
